@@ -1,4 +1,4 @@
-package xknr.util;
+package xknr.euler.util;
 
 import java.math.BigInteger;
 
